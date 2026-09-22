@@ -1,1 +1,2 @@
 Hello from file 2
+this line is added later
